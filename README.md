@@ -22,15 +22,16 @@ Capstone Project for Springboard Class - Data Science Intensive
          
          
      2   Project Title - Removing Tax Deduction Bias & Abuse
-         Objective - Make suggestions on how to remove federal tax deduction bias out from the tax code.  Personal taxes only.
+         Objective - Make suggestions on how to remove federal tax deduction bias from the tax code.  Personal taxes only.
          Client - Government tax policy.
-         Client Benefits - Make tax policy fair and harder to abuse in terms of deduction rates.
+         Client Benefits - Make tax policy fair and more difficult to be abused in terms of amount of deductions relative to income.
          Dataset = https://catalog.data.gov/dataset/zip-code-data
          Tasks  (1) Explore data distributions by income level and by location in terms of gross income, total deductions, tax rate as a                     percentage of gross and adjusted incomes.
                 (2) Quantify and visually show unfairness by income level and by location.
-                (3) Quantify abuse and outliers and visuallly show.
-                (4) Propose new rules or guidelines and show what happens to unfairness and outliers.  Proposal should be total tax                         neutral.
-                (5) Capture what happens to total tax revenue collected and tax scale progressiveness.  
+                (3) Quantify abuse and outliers and visually show.
+                (4) Propose new rules or guidelines and show what happens to unfairness and outliers.  Proposal should be tax                               neutral in terms of total tax collected by the federal government.
+                (5) Capture what happens to total tax revenue collected and tax scale progressiveness.
+
 
 
      3   dataset = https://catalog.data.gov/dataset/college-scorecard
