@@ -1,7 +1,8 @@
 # Capstone-project
-Capstone Project for Springboard Class - Data Science Intensive
+Capstone Project & Data Story for Springboard Class - Data Science Intensive
 
-3 Ideas for a project  (data set / question I'm trying to answer or problem I'm trying to solve)
+3 Ideas for a Capstone project:  Decision made on 2/16/17 to use first idea for Capstone Project & Data Story
+                                 Title:  Avoidable Death in America
 
 
 1  Project Title - Avoidable Death in America
